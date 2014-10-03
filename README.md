@@ -1,5 +1,6 @@
 scala-sbt.org
 =============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/krrrr38/website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This project is the source for scala-sbt.org. See [contributors](https://github.com/sbt/website/graphs/contributors) for the list of documentation contributors.
 
